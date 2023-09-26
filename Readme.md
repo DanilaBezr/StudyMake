@@ -1,2 +1,2 @@
-Simple project for study makefiles
+Bezrukov Danila 22PT2
 ==================================
